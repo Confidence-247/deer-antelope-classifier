@@ -34,10 +34,8 @@ deer_antelope_project/
 
 ## 📊 Dataset
 
-Images of deer and antelope were collected for binary classification. Suggested
-sources: Kaggle ("Animal Image Dataset", "Africa Wildlife"), or manually curated
-images. Aim for at least 150–200 images per class (train + validation combined)
-for reasonable performance. Place images into `data/train/<class>` and
+Images of deer and antelope were collected for binary classification.
+source: Kaggle '90 Different Animals' dataset. Place images into `data/train/<class>` and
 `data/val/<class>` following the folder structure above before training.
 
 ## 🧠 Model
