@@ -108,11 +108,19 @@ meaningless (~50/50 guesses). This lets you:
 
 ## 👥 Team Members
 
-| Name | Registration Number | GitHub Username |
-|------|----------------------|------------------|
-| _Fill in_ | _Fill in_ | _Fill in_ |
-| _Fill in_ | _Fill in_ | _Fill in_ |
-| _Fill in_ | _Fill in_ | _Fill in_ |
+| Name                   | Registration Number  |    GitHub Username  |
+|------------------------|----------------------|---------------------|
+|Abasi-ifreke Michael U. |   23/EG/PE/036       | ukpeabasifreke001   |
+|Ntuk, KufreAbasi A.     |   22/EG/PE/1476      | kufreNtuk           |
+|Ephraim praise A        |   23/EG/PE/056       | Ephraimpraise       |
+|Abasi-ifreke Michael U. |   22/EG/PE/1496      | michaelokoh-tech    |
+|Williams, Elijah Bassey |   23/EG/PE/1466      | welijah495-cpu      |
+|Emmanson, Victor E.     |   22/EG/PE/1526      | Emmanson24          |
+|Bassey, Divine Jehdiah  |   23/EG/PE/016       | Jehdiah55           |
+|Sunday Emmanuel Joseph  |   22/EG/PE/1506      | emmanuel-b-cyber    |
+|Okon Kingsley Matthew   |   22/GE/PE/1516      | BigKingz55          |
+|Ukoh, Confidence Asuquo |   33/EG/PE/1486      | confidence-247      |
+
 
 ## 📄 License
 
