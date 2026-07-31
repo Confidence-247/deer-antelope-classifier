@@ -19,12 +19,12 @@ This project was completed as part of a mini-project covering:
 |Ntuk, KufreAbasi A.     |   22/EG/PE/1476      | kufreNtuk           |
 |Ephraim praise A        |   23/EG/PE/056       | Ephraimpraise       |
 |Abasi-ifreke Michael U. |   22/EG/PE/1496      | michaelokoh-tech    |
-|Williams, Elijah Bassey |   23/EG/PE/1466      | welijah495-cpu      |
+|Williams, Elijah Bassey |   22/EG/PE/1466      | welijah495-cpu      |
 |Emmanson, Victor E.     |   22/EG/PE/1526      | Emmanson24          |
 |Bassey, Divine Jehdiah  |   23/EG/PE/016       | Jehdiah55           |
 |Sunday Emmanuel Joseph  |   22/EG/PE/1506      | emmanuel-b-cyber    |
 |Okon Kingsley Matthew   |   22/GE/PE/1516      | BigKingz55          |
-|Ukoh, Confidence Asuquo |   33/EG/PE/1486      | confidence-247      |
+|Ukoh, Confidence Asuquo |   22/EG/PE/1486      | confidence-247      |
 
 
 ## 📁 Project Structure
@@ -75,7 +75,7 @@ meaningless (~50/50 guesses). This lets you:
    before your dataset or real training is ready.
 2. Confirm the whole pipeline works end-to-end (repo structure, `requirements.txt`,
    Streamlit build, file upload, prediction display) so you catch any
-   deployment issues on day one instead of the night before the deadline.
+   deployment issues.
 3. Once `train_model.py` finishes producing the real trained model, just
    overwrite `model/deer_antelope_model.h5` (and `model/class_indices.json`)
    with the real files and `git push`. Streamlit Cloud auto-redeploys — no
@@ -85,7 +85,7 @@ meaningless (~50/50 guesses). This lets you:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone https://github.com/Confidence-247/deer-antelope-classifier.git
    cd <your-repo>
    ```
 2. Install dependencies:
@@ -113,7 +113,7 @@ meaningless (~50/50 guesses). This lets you:
    path to `app.py`.
 4. Click **Deploy**. Streamlit Cloud will install `requirements.txt`
    automatically and launch the app.
-5. Copy the generated public URL for submission.
+   
 
 ## 🖼️ Usage
 
