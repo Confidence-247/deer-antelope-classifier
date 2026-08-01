@@ -24,7 +24,7 @@ This project was completed as part of a mini-project covering:
 |Bassey, Divine Jehdiah  |   23/EG/PE/016       | Jehdiah55           |
 |Sunday Emmanuel Joseph  |   22/EG/PE/1506      | emmanuel-b-cyber    |
 |Okon Kingsley Matthew   |   22/GE/PE/1516      | BigKingz55          |
-|Ukoh, Confidence Asuquo |   22/EG/PE/1486      | confidence-247      |
+|Ukoh, Confidence Asuquo |   22/EG/PE/1486      | Confidence-247      |
 
 
 ## 📁 Project Structure
