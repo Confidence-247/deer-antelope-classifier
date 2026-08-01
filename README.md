@@ -25,6 +25,7 @@ This project was completed as part of a mini-project covering:
 |Sunday Emmanuel Joseph  |   22/EG/PE/1506      | emmanuel-b-cyber    |
 |Okon Kingsley Matthew   |   22/GE/PE/1516      | BigKingz55          |
 |Ukoh, Confidence Asuquo |   22/EG/PE/1486      | Confidence-247      |
+|Sunday Etim Daniel      |   22/EG/PE/1546      | DanielEtim090       |
 
 
 ## 📁 Project Structure
