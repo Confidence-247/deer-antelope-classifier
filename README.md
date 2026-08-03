@@ -50,13 +50,12 @@ deer_antelope_project/
 ```
 
 ## 📊 Dataset
-
 Images of deer and antelope were collected for binary classification.
-source: Kaggle '90 Different Animals' dataset. Place images into `data/train/<class>` and
+source: Kaggle '90 Different Animals' dataset. Place images into 
+`data/train/<class>` and
 `data/val/<class>` following the folder structure above before training.
 
 ## 🧠 Model
-
 - **Architecture:** MobileNetV2 (pretrained on ImageNet) as a frozen feature
   extractor, followed by a GlobalAveragePooling layer, a Dense(128, ReLU) layer,
   Dropout(0.3), and a final Dense(1, sigmoid) output for binary classification.
@@ -64,6 +63,7 @@ source: Kaggle '90 Different Animals' dataset. Place images into `data/train/<cl
   are unfrozen and trained at a lower learning rate to improve accuracy.
 - **Input size:** 224×224×3
 - **Loss:** Binary cross-entropy | **Optimizer:** Adam
+
 
 ## ⚡ Deploy-First Workflow (recommended)
 
